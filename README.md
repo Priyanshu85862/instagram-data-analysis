@@ -55,6 +55,7 @@ Here are the key visual insights generated from the data:
 
 
 🚀 How to Run the Project
+
 1️⃣ Clone the repo:
 
 git clone https://github.com/your-username/instagram-analysis.git
