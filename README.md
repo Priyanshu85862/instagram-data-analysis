@@ -55,9 +55,15 @@ Here are the key visual insights generated from the data:
 
 🚀 How to Run the Project
 1️⃣ Clone the repo:
+
 git clone https://github.com/your-username/instagram-analysis.git
+
 cd instagram-analysis
+
 2️⃣ Install dependencies:
+
 pip install pandas matplotlib seaborn wordcloud
+
 3️⃣ Run the analysis:
+
 python analysis.py
