@@ -1,5 +1,6 @@
 📊 Instagram Data Analysis 
-Welcome to the Instagram Comment Analysis project — a data visualization and analytics project based on real comment data collected from Instagram. This project demonstrates how to process, clean, and visualize insights from social media interactions.
+
+Welcome to the Instagram Analysis project — a data visualization and analytics project based on real comment data collected from Instagram. This project demonstrates how to process, clean, and visualize insights from social media interactions.
 
 🧰 Tools & Libraries Used
 Python 🐍
